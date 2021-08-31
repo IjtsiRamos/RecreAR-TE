@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es_ES">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Recrear-te</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">    </head>
+        <link rel="stylesheet" href="path/to/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+        <link rel="stylesheet" href="./style.css" />
+    </head>
+    <body>
+        <header>
+
+            <nav class="navbar navbar-expand-lg bg-dark  d-md-block d-xl-block d-xxl-block">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <a href=""  class="nav-item"  aria-current="page">
+                    <img style="border-radius: 15px;" src="https://recrear-te.com/wp-content/uploads/2020/12/cropped-Recrear-te3-140x59.jpg" class="custom-logo" alt="Recrear-te" srcset="https://recrear-te.com/wp-content/uploads/2020/12/cropped-Recrear-te3-140x59.jpg 1x, https://recrear-te.com/wp-content/uploads/2020/12/cropped-cropped-Recrear-te-1.jpg 2x" sizes="(max-width: 140px) 100vw, 140px" width="140" height="59">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <ul class="navbar-nav mr-auto mt-2 mt-lg-0 ml-auto ">
+                    <li class="nav-item ">
+                        <a href="" aria-current="page" class="nav-link text-white">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" aria-current="page" class="nav-link text-white">Clases y talleres</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" role="button" class="nav-link nav-link link text-white dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" data-toggle="dropdown-submenu">Materiales para artes</a>
+                        <ul class= "dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                            <li><a href="" class="text-white dropdown-item"  aria-expanded="false">Materiales para artes</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link nav-link link text-white dropdown-toggle">Pinta por número</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link text-white">Obras en ventas</a>
+                    </li><li class="nav-item">
+                        <a href="" aria-current="page" class="nav-link text-white">Nosotros</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" aria-current="page" class="nav-link text-white">Contacto</a>
+                    </li>
+
+                    </ul>
+                </div>
+            </nav>    
+         </header>   
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
