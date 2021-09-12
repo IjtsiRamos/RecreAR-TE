@@ -5,7 +5,8 @@ nav a{
     color:antiquewhite;
 }
 body{
-    background-color:rgb(77, 87, 76);
+    background-color:rgb(46, 60, 107);
+    font-family: 'Besley', serif;
 }
 footer{
     background-color:rgb(37, 48, 85);
@@ -13,4 +14,32 @@ footer{
 }
 footer a{
     color:antiquewhite;
+}
+h1{
+    color:antiquewhite;;
+    font-size:x-large;
+    justify-content:center;
+    align-items:center;
+}
+p{
+    justify-content:center;
+    align-items:center;
+    color:antiquewhite;
+}
+h6{
+    color:rgb(189, 170, 147);
+}
+main{
+    padding:30px;
+}
+
+.dropdown-menu{
+    background-color:rgb(49, 64, 112);
+ 
+}    
+.dropdown-menu a{
+    color:antiquewhite;
+}
+.lista{
+    display:inline-block;
 }
